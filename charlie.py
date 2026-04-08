@@ -35,7 +35,7 @@ def post_comment(project_id, comment_text):
 
 
 if __name__ == "__main__":
-    print("🔮 Shrine Multi‑Comment Ritual — v2.0")
+    print("charlie v1.0")
 
     project_id = input("id").strip()
     count = int(input("how many").strip())
