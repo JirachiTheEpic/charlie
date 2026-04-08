@@ -53,7 +53,7 @@ if __name__ == "__main__":
         post_comment(project_id, comment_text)
 
         if i < count - 1:
-            print(f"⏳ Waiting {delay} seconds before next engraving…")
+            print("waiting {delay} seconds for charlie")
             time.sleep(delay)
 
     print("charlie has charlied")
