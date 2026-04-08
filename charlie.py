@@ -35,7 +35,7 @@ def post_comment(project_id, comment_text):
 
 
 if __name__ == "__main__":
-    print("charlie v1.1")
+    print("charlie 1.1")
 
     project_id = input("id: ").strip()
     count = int(input("how many: ").strip())
